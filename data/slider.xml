@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<slider>
+    <slide>
+        <date>FEB 28TH, 2017</date>
+        <content>Check Out This 30-Minute Abs Workout</content>
+        <by>by Esther Hollyway in </by>
+        <img>images/abs.jpg</img>
+    </slide>
+    <slide>
+        <date>FEB 28TH, 2017</date>
+        <content>The Truth About Humidifiers</content>
+        <by>by Esther Hollyway in </by>
+        <img>images/humid.jpg</img>
+    </slide>
+    <slide>
+        <date>FEB 28TH, 2017</date>
+        <content>Unique Wedding Cake Toppers</content>
+        <by>by Esther Hollyway in </by>
+        <img>images/cake.jpg</img>
+    </slide>
+</slider>
