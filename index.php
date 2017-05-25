@@ -9,6 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.3/vue.js" ></script>
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
         <style type="text/css">
             .modal-mask {
                 position: fixed;
@@ -110,7 +111,13 @@ and open the template in the editor.
                 data: {
                     showModal: false
                 }
-            })
+            });
+            
+            $(document).ready(function(){
+               $.getJSON( "port/picker.php", function(data) {
+                   console.log(data.page[1].slug);
+               });
+            });
         </script>
     </body>
 </html>

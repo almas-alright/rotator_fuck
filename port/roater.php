@@ -348,9 +348,7 @@ Apple Cider Vinegar helps to break down fats so that your body can use them rath
 
     $blog4title = "How Do I Take Raw Apple Cider Vinegar?";
     $blog4content = "Beneficial ingredients in raw apple cider vinegar give it its power to make us feel better, look better, and feel energized. Just look at some of the beneficial ingredients in raw apple cider vinegar:
-
 – Potassium – helps to fight against brittle teeth, hair loss and runny noses.
-
 – Pectin – helps to regulate blood pressure and reduce bad cholesterol.
 
 – Malic Acid – gives ACV the properties of being resistant to viruses, bacteria, and fungus.
