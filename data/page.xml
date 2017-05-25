@@ -4,34 +4,33 @@
       <slug>home</slug>
       <title>Life Path Balance | Lifes Path To Balanced Wellness</title>
       <f-img>null</f-img>
-      <contect><![CDATA[null]]></contect>
+      <content><![CDATA[null]]></content>
    </page>
    <page>
       <slug>about-us</slug>
       <title>About Us</title>
       <f-img>images/about.jpg</f-img>
-      <contect><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      <content><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            <br></p>]]></contect>
+            <br></p>]]></content>
    </page>
    <page>
       <slug>contact</slug>
       <title>Contact Us</title>
       <f-img>null</f-img>
-      <contect><![CDATA[<p>You are a part of the Rebel Alliance and a traitor so what do you think of her Han. But with the blast shield down even see! How am I supposed to fight need your help Luke. She needs your help getting too old for this sort of thing.</p>
-            <p>Act so surprised your highness. You mercy mission this time several transmissions were beamed to this ship by Rebel spies.</p>
+      <content><![CDATA[<p>You are a part of the Rebel Alliance and a traitor so what do you think of her Han. But with the blast shield down even see! How am I supposed to fight need your help Luke. She needs your help getting too old for this sort of thing.</p><p>Act so surprised your highness. You mercy mission this time several transmissions were beamed to this ship by Rebel spies.</p>
             <ul>
             <li>You mean it controls your actions?</li>
             <li>But with the blast shield down can even see! How am I supposed to fight?</li>
             <li>I get involved got work to do not that I like the Empire</li>
             <li>But nothing can do about it right now such a long way from here.</li>
-            </ul>]]></contect>
+            </ul>]]></content>
    </page>
    <page>
       <slug>privacy-policy</slug>
       <title>Privacy Policy</title>
       <f-img>null</f-img>
-      <contect><![CDATA[<p>SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?</p>
+      <content><![CDATA[<p>SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?</p>
             <p>When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.</p>
             <p>When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.</p>
             <p>Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.<br>
@@ -80,13 +79,13 @@
             <p>If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.<br>
             QUESTIONS AND CONTACT INFORMATION</p>
             <p>If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer by mail at <!--?php // echo $--EMAIL;?--></p>
-            <p>Re: Privacy Compliance Officer</p>]]></contect>
+            <p>Re: Privacy Compliance Officer</p>]]></content>
    </page>
    <page>
       <slug>terms-conditions</slug>
       <title>Terms and Conditions</title>
       <f-img>null</f-img>
-      <contect><![CDATA[<p>These terms and conditions outline the rules and regulations for the use of Pamela Casey Blog Website.</p>
+      <content><![CDATA[<p>These terms and conditions outline the rules and regulations for the use of Pamela Casey Blog Website.</p>
             <p>Pamela Casey Blog is located at:</p>
             <p>12457 Fitzroy St, Odessa, FL 33556, United States</p>
             <p>By accessing this website we assume you accept these terms and conditions in full. Do not continue to use Pamela Casey Blog website if you do not accept all of the terms and conditions stated on this page.</p>
@@ -153,13 +152,13 @@
             <p>exclude any of our or your liabilities that may not be excluded under applicable law.</p>
             <p>The limitations and exclusions of liability set out in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or in relation to the subject matter of this disclaimer, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty.</p>
             <p>To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
-            <p>Inspired by Pamela Casey Blog. Follow us on Instagram .</p>]]></contect>
+            <p>Inspired by Pamela Casey Blog. Follow us on Instagram .</p>]]></content>
    </page>
    <page>
       <slug>blog</slug>
       <title>Blog</title>
       <f-img>null</f-img>
-      <contect><![CDATA[null]]></contect>
+      <content><![CDATA[null]]></content>
    </page>
 </pages>
 

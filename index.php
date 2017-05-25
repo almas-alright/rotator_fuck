@@ -86,38 +86,76 @@ and open the template in the editor.
             </div>
             </transition>
         </script>
+    <asd foo="B">
+        <select v-model="selectx">
+            <option v-for="option in options" v-bind:value="option.value">
+                {{ option.text }}
+            </option>
+        </select>
+        <span>Selected: {{ selectx }}</span>
+    </asd>
+    
+    <ul id="sidebar">
+        <li v-for="widget in widgets">
+            {{ widget.title }}
+        </li>
+    </ul>
+    <!-- app -->
+    <div id="app">
+        <button id="show-modal" @click="showModal = true">Show Modal</button>
+        <!-- use the modal component, pass in the prop -->
+        <modal v-if="showModal" @close="showModal = false">
+            <!--
+              you can use custom content here to overwrite
+              default content
+            -->
+            <h3 slot="header">custom header</h3>
+        </modal>
+    </div>
+    <script type="text/javascript">
+// register modal component
+Vue.component('modal', {
+template: '#modal-template'
+})
 
-        <!-- app -->
-        <div id="app">
-            <button id="show-modal" @click="showModal = true">Show Modal</button>
-            <!-- use the modal component, pass in the prop -->
-            <modal v-if="showModal" @close="showModal = false">
-                <!--
-                  you can use custom content here to overwrite
-                  default content
-                -->
-                <h3 slot="header">custom header</h3>
-            </modal>
-        </div>
-        <script type="text/javascript">
-            // register modal component
-            Vue.component('modal', {
-                template: '#modal-template'
-            })
+// start app
+new Vue({
+el: '#app',
+data: {
+    showModal: false
+}
+});
+var page = null, post = null, thumbnail = null, sidebar = null, slider = null;
+$(document).ready(function () {
+$.getJSON("port/picker.php", function (data) {
+//console.log(data.page[1].content);
+    window.page = data.page;
+    window.post = data.post;
+    window.thumbnail = data.thumbnail;
+    window.sidebar = data.sidebar;
+    window.slider = data.slider;
+    var sidebar = new Vue({
+        el: '#sidebar',
+        data: {
+            widgets: window.sidebar
+        }
+    });
+});
+});
 
-            // start app
-            new Vue({
-                el: '#app',
-                data: {
-                    showModal: false
-                }
-            });
-            
-            $(document).ready(function(){
-               $.getJSON( "port/picker.php", function(data) {
-                   console.log(data.page[1].slug);
-               });
-            });
-        </script>
-    </body>
+
+new Vue({
+el: 'asd',
+paramAttributes: ['foo'],
+data: {
+    selectx: 'A',
+    options: [
+        {text: 'One', value: 'A'},
+        {text: 'Two', value: 'B'},
+        {text: 'Three', value: 'C'}
+    ]
+}
+})
+    </script>
+</body>
 </html>
