@@ -11,5 +11,5 @@ and open the template in the editor.
     <logo>images/logo.png</logo>
     <facebook>http://facebook.com</facebook>
     <twitter>http://twitter.com</twitter>
-    <ad-sidebar>images/ad1.jpg</ad-sidebar>  
+    <adsidebar>images/ad1.png</adsidebar>  
 </site>

@@ -34,19 +34,33 @@ $(document).ready(function () {
                 slider: window.slider
             }
         });
-        var blog = new Vue({
-            el: 'blog',
+        var page = new Vue({
+            el: '#page',
             data: {
-                posts: window.post
+                pages: window.page
             }
         });
-        
+//        var blog = new Vue({
+//            el: 'blog',
+//            data: {
+//                posts: window.post
+//            }
+//        });
+
         $('.site-logo').attr("src", window.site.logo);
+        $('.sidebar-ad').html('<img src="'+window.site.adsidebar+'" class="img-responsive" alt="" />');
         $('title').html(window.site.title);
         $('#slider').unslider({autoplay: true});
     });
 
-
+    var container = $('.grid');
+    
+        container.imagesLoaded(function () {
+        container.masonry({
+            columnWidth: '.col-md-6',
+            itemSelector: '.col-md-6'
+        });
+    });
 
 
 });

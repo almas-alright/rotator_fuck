@@ -3,13 +3,13 @@
    <page>
       <slug>home</slug>
       <title>Life Path Balance | Lifes Path To Balanced Wellness</title>
-      <f-img>null</f-img>
+      <fimage>null</fimage>
       <content><![CDATA[null]]></content>
    </page>
    <page>
       <slug>about-us</slug>
       <title>About Us</title>
-      <f-img>images/about.jpg</f-img>
+      <fimage>images/about.jpg</fimage>
       <content><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
             <br></p>]]></content>
@@ -17,7 +17,7 @@
    <page>
       <slug>contact</slug>
       <title>Contact Us</title>
-      <f-img>null</f-img>
+      <fimage>null</fimage>
       <content><![CDATA[<p>You are a part of the Rebel Alliance and a traitor so what do you think of her Han. But with the blast shield down even see! How am I supposed to fight need your help Luke. She needs your help getting too old for this sort of thing.</p><p>Act so surprised your highness. You mercy mission this time several transmissions were beamed to this ship by Rebel spies.</p>
             <ul>
             <li>You mean it controls your actions?</li>
@@ -29,7 +29,7 @@
    <page>
       <slug>privacy-policy</slug>
       <title>Privacy Policy</title>
-      <f-img>null</f-img>
+      <fimage>null</fimage>
       <content><![CDATA[<p>SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?</p>
             <p>When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.</p>
             <p>When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.</p>
@@ -84,7 +84,7 @@
    <page>
       <slug>terms-conditions</slug>
       <title>Terms and Conditions</title>
-      <f-img>null</f-img>
+      <fimage>null</fimage>
       <content><![CDATA[<p>These terms and conditions outline the rules and regulations for the use of Pamela Casey Blog Website.</p>
             <p>Pamela Casey Blog is located at:</p>
             <p>12457 Fitzroy St, Odessa, FL 33556, United States</p>
@@ -157,7 +157,7 @@
    <page>
       <slug>blog</slug>
       <title>Blog</title>
-      <f-img>null</f-img>
+      <fimage>null</fimage>
       <content><![CDATA[null]]></content>
    </page>
 </pages>

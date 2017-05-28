@@ -34,32 +34,13 @@ and open the template in the editor.
 
                 <div class="col-md-8">
                     <div class="row">
-                        <?php
-                        $posts = simplexml_load_file("data/post.xml", 'SimpleXMLElement', LIBXML_NOCDATA) or die("Error: Cannot create object");
-                        foreach ($posts->children() as $post) {
-                            $fimage = "";
-                            $author = "";
-                            $date = "";
-                            if ($post->fimage != "null"): $fimage = '<img class="img-responsive" src="' . $post->fimage . '"  alt="" />';
-                            endif;
-                            if ($post->author != "null"): $author = $post->author;
-                            endif;
-                            if ($post->pdate != "null"): $dtae = $post->pdate;
-                            endif;
-
-                            echo '<div class="col-md-12 text-center" v-for="post in posts">                                    
-                                    <h5><a href="#">' . $post->title . '</a></h5>
-                                        ' . $fimage . '
-                                    <span>
-                                        <strong>' . $author . '</strong> - ' . $pdate . '                                                                      
-                                    </span>
-                                    <p>' . $post->content . '</p>
-                                </div>';
-                        }
-                        ?>
-
-
-
+                        <div id="page">
+                            <div class="col-md-12" v-for="page in pages" v-if="page.slug === 'contact'">
+                                <h3>{{ page.title }}</h3>
+                                <img class="img-responsive" v-if="page.fimage != 'null'" v-bind:src="page.fimage"  alt="" />                                
+                                <article v-html="page.content"></article>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
