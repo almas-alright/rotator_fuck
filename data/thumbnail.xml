@@ -2,7 +2,7 @@
 <thumbnails>
     <thumb>
         <img>images/abs.jpg</img>
-        <name>Wellness</name>
+        <cat>Wellness</cat>
         <title>Check Out This 30-Minute Abs Workout</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -11,7 +11,7 @@
     </thumb>
     <thumb>
         <img>images/run.jpg</img>
-        <name>Trending</name>
+        <cat>Trending</cat>
         <title>Watch This Why Exercise Is Good For Digestion</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -20,7 +20,7 @@
     </thumb>
     <thumb>
         <img>images/sore.png</img>
-        <name>Life</name>
+        <cat>Life</cat>
         <title>When To Skip Working Out</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -29,7 +29,7 @@
     </thumb>
     <thumb>
         <img>images/5things.png</img>
-        <name>Viral</name>
+        <cat>Viral</cat>
         <title>These 5 Exercise Moves You May Be Doing Wrong</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -38,7 +38,7 @@
     </thumb>
     <thumb>
         <img>images/wedding.jpg</img>
-        <name>Trending</name>
+        <cat>Trending</cat>
         <title>Fairy Tale Wedding Destinations</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -47,7 +47,7 @@
     </thumb>
     <thumb>
         <img>images/humid.jpg</img>
-        <name>Viral</name>
+        <cat>Viral</cat>
         <title>The Truth About Humidifiers</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -56,7 +56,7 @@
     </thumb>
     <thumb>
         <img>images/taupe.jpg</img>
-        <name>Trending</name>
+        <cat>Trending</cat>
         <title>6 Sophisticated Ways To Paint With Taupe</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -65,7 +65,7 @@
     </thumb>
     <thumb>
         <img>images/apples.jpg</img>
-        <name>Trending</name>
+        <cat>Trending</cat>
         <title>Is Apple Cider Vinegar Healthy For You</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
@@ -74,12 +74,12 @@
     </thumb>
     <thumb>
         <img>images/cake.jpg</img>
-        <name>Trending</name>
+        <cat>Trending</cat>
         <title>Unique Wedding Cake Toppers</title>
         <author>Esther Holloway</author>
         <date>Feb 28th, 2017</date>
         <comcount>63</comcount>
         <content> That special day is around the corner, and as the finishing touches are completed on that perfect bridal gown, its&#13;
-	 time to focus on the little details that make your wedding day as unique to your guests as it is unique to you </content></thumb><thumb><img>images/arctic.jpg</img><name>Wellness</name><author>Esther Holloway</author><date>Feb 28th, 2017</date><comcount>27</comcount><content> When it comes to picking a destination for a cruise, most of us would assume an island location a no brainer, but what about cruising the artic ocean, surrounded by snow capped mountains, icy waters, and artic wildlife? These following locations will have you exploring your options next time you plan a trip. </content>
+	 time to focus on the little details that make your wedding day as unique to your guests as it is unique to you </content></thumb><thumb><img>images/arctic.jpg</img><cat>Wellness</cat><author>Esther Holloway</author><date>Feb 28th, 2017</date><comcount>27</comcount><content> When it comes to picking a destination for a cruise, most of us would assume an island location a no brainer, but what about cruising the artic ocean, surrounded by snow capped mountains, icy waters, and artic wildlife? These following locations will have you exploring your options next time you plan a trip. </content>
          </thumb>
 </thumbnails>

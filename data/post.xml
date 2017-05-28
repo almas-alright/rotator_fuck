@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>Apple Cider Vinegar Tastes Bad, But Is It Good For You</title>
         <author>Esther Holloway</author>
         <p-date>Feb 28th, 2017</p-date>
-        <f-image>null</f-image>
+        <fimage>null</fimage>
         <content><![CDATA[]]></content>
     </post>
     <post>
@@ -18,7 +18,7 @@ and open the template in the editor.
         <title>Apple Cider Vinegar Tastes Bad, But Is It Good For You</title>
         <author>null</author>
         <p-date>Feb 28th, 2017</p-date>
-        <f-image>images/apple2.jpg</f-image>
+        <fimage>images/apple2.jpg</fimage>
         <content><![CDATA[<p>Raw Organic Apple Cider Vinegar (ACV) is made from nutritious, organically grown apples and retains many beneficial components because raw apple cider vinegar is not pasteurized. ACV undergoes two fermentation processes where it produces enzymes and life giving nutrients that make apple cider vinegar the powerhouse it is. 1 tablespoon of Raw Apple Cider Vinegar mixed in 4 ounces of purified water after a meal has been used as a natural remedy for heartburn and as a replacement for toxic heartburn medications.</p><br>]]></content>
     </post>
     <post>
@@ -26,7 +26,7 @@ and open the template in the editor.
         <title>Many health experts are hailing apple cider vinegar for its many benefits</title>
         <author>null</author>
         <p-date>null</p-date>
-        <f-image>images/apple3.jpg</f-image>
+        <fimage>images/apple3.jpg</fimage>
         <content><![CDATA[Raw Apple Cider Vinegar may help improve bowel irregularity, thereby removing toxins from the body at a faster rate.
 Helps clear up skin conditions and blemishes giving a more smooth texture and appearance.
 Raw Apple Cider vinegar may also help with joint pain and stiffness.
@@ -37,7 +37,7 @@ Apple Cider Vinegar helps to break down fats so that your body can use them rath
         <title>How Do I Take Raw Apple Cider Vinegar?</title>
         <author>null</author>
         <p-date>null</p-date>
-        <f-image>null</f-image>
+        <fimage>null</fimage>
         <content><![CDATA[Beneficial ingredients in raw apple cider vinegar give it its power to make us feel better, look better, and feel energized. Just look at some of the beneficial ingredients in raw apple cider vinegar:
 – Potassium – helps to fight against brittle teeth, hair loss and runny noses.
 – Pectin – helps to regulate blood pressure and reduce bad cholesterol.

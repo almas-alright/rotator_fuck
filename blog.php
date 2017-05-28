@@ -45,18 +45,17 @@ and open the template in the editor.
 
                 <div class="col-md-8">
                     <div class="row">
-                        <thumbnail>
-                            <div class="col-md-6 text-center" v-for="thumbnail in thumbnails">
-                                <img class="img-responsive" v-bind:src="thumbnail.img"  alt="" />
-                                <span>{{ thumbnail.cat }}</span>
-                                <h5><a href="#">{{ thumbnail.title }}</a></h5>
+                        <blog>
+                            <div class="col-md-12 text-center" v-for="post in posts">
+                                <img class="img-responsive" v-bind:src="post.img"  alt="" />                                
+                                <h5><a href="#">{{ post.title }}</a></h5>
                                 <span>
-                                    <strong>{{ thumbnail.author }}</strong> - {{ thumbnail.date }} 
-                                    <span class="badge">{{ thumbnail.comcount }}</span>                                        
+                                    <strong>{{ post.author }}</strong> - {{ post.date }} 
+                                    <span class="badge">{{ post.content }}</span>                                        
                                 </span>
-                                <p>{{ thumbnail.content }}</p>
+                                <p>{{ post.content }}</p>
                             </div>
-                        </thumbnail>
+                        </blog>
                     </div>
                 </div>
 
